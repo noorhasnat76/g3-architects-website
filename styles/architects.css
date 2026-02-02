@@ -197,6 +197,28 @@ main > section{
     margin-top: 50px;
 }
 
+footer{
+    padding: 90px 90px;
+}
+
+.footer{
+   
+    
+    max-width: 1440px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    padding: 29px  410px;
+
+}
+
+.footer-title{
+
+}
+
+
+
+
+
 @media screen and (max-width:576px) {
     .navbar, 
     .nav-links ,
